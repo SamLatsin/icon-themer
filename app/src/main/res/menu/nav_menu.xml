@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/premium"
+        android:icon="@drawable/i_premium"
+        android:title="Premium" />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/i_share"
+        android:title="Share App" />
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/i_rate"
+        android:title="Rate us" />
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/i_contact"
+        android:title="Contact us" />
+    <item
+        android:id="@+id/policy"
+        android:icon="@drawable/i_policy"
+        android:title="Privacy Policy" />
+    <item
+        android:id="@+id/terms"
+        android:icon="@drawable/i_terms"
+        android:title="Terms of use" />
+
+</menu>

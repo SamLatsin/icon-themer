@@ -1,0 +1,49 @@
+com/theartofdev/edmodo/cropper/CropOverlayView.java
+ com.theartofdev.edmodo.cropper.CropOverlayView
+ com.theartofdev.edmodo.cropper.CropOverlayView$1
+ com.theartofdev.edmodo.cropper.CropOverlayView$CropWindowChangeListener
+ com.theartofdev.edmodo.cropper.CropOverlayView$ScaleListener
+com/theartofdev/edmodo/cropper/CropWindowMoveHandler.java
+ com.theartofdev.edmodo.cropper.CropWindowMoveHandler
+ com.theartofdev.edmodo.cropper.CropWindowMoveHandler$1
+ com.theartofdev.edmodo.cropper.CropWindowMoveHandler$Type
+com/theartofdev/edmodo/cropper/CropImageActivity.java
+ com.theartofdev.edmodo.cropper.CropImageActivity
+com/theartofdev/edmodo/cropper/BitmapCroppingWorkerTask.java
+ com.theartofdev.edmodo.cropper.BitmapCroppingWorkerTask
+ com.theartofdev.edmodo.cropper.BitmapCroppingWorkerTask$Result
+com/theartofdev/edmodo/cropper/CropImageView.java
+ com.theartofdev.edmodo.cropper.CropImageView
+ com.theartofdev.edmodo.cropper.CropImageView$1
+ com.theartofdev.edmodo.cropper.CropImageView$CropResult
+ com.theartofdev.edmodo.cropper.CropImageView$CropShape
+ com.theartofdev.edmodo.cropper.CropImageView$Guidelines
+ com.theartofdev.edmodo.cropper.CropImageView$OnCropImageCompleteListener
+ com.theartofdev.edmodo.cropper.CropImageView$OnSetCropOverlayMovedListener
+ com.theartofdev.edmodo.cropper.CropImageView$OnSetCropOverlayReleasedListener
+ com.theartofdev.edmodo.cropper.CropImageView$OnSetCropWindowChangeListener
+ com.theartofdev.edmodo.cropper.CropImageView$OnSetImageUriCompleteListener
+ com.theartofdev.edmodo.cropper.CropImageView$RequestSizeOptions
+ com.theartofdev.edmodo.cropper.CropImageView$ScaleType
+com/theartofdev/edmodo/cropper/CropWindowHandler.java
+ com.theartofdev.edmodo.cropper.CropWindowHandler
+com/theartofdev/edmodo/cropper/CropImageOptions.java
+ com.theartofdev.edmodo.cropper.CropImageOptions
+ com.theartofdev.edmodo.cropper.CropImageOptions$1
+com/theartofdev/edmodo/cropper/CropImageAnimation.java
+ com.theartofdev.edmodo.cropper.CropImageAnimation
+com/theartofdev/edmodo/cropper/BitmapUtils.java
+ com.theartofdev.edmodo.cropper.BitmapUtils
+ com.theartofdev.edmodo.cropper.BitmapUtils$BitmapSampled
+ com.theartofdev.edmodo.cropper.BitmapUtils$RotateBitmapResult
+com/theartofdev/edmodo/cropper/BuildConfig.java
+ com.theartofdev.edmodo.cropper.BuildConfig
+com/theartofdev/edmodo/cropper/BitmapLoadingWorkerTask.java
+ com.theartofdev.edmodo.cropper.BitmapLoadingWorkerTask
+ com.theartofdev.edmodo.cropper.BitmapLoadingWorkerTask$Result
+com/theartofdev/edmodo/cropper/CropImage.java
+ com.theartofdev.edmodo.cropper.CropImage
+ com.theartofdev.edmodo.cropper.CropImage$1
+ com.theartofdev.edmodo.cropper.CropImage$ActivityBuilder
+ com.theartofdev.edmodo.cropper.CropImage$ActivityResult
+ com.theartofdev.edmodo.cropper.CropImage$ActivityResult$1

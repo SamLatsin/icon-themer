@@ -1,0 +1,3 @@
+include ':app', ':cropper'
+project(':cropper').projectDir = new File('libs/cropper')
+rootProject.name = "Icon Themer"
