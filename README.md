@@ -40,6 +40,6 @@ Open project in Android Studio and just build it.
   <img src="https://github.com/SamLatsin/icon-themer/blob/main/preview/9.jpg" width="16%" />
 </p>
 
-### License
+## License
 
 Icon-themer is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
