@@ -16,7 +16,7 @@ This app can create a shortcut on android homescreen for anything you want from 
 * Image cropping (thanks to [ArthurHub and Edmodo](https://github.com/ArthurHub/Android-Image-Cropper))
 * Installed apps parser
 * Search for apps
-* Access to already installed apps
+* Access to already installed apps icons
 ## Getting Started
 ### Requirements
 * Android phone
